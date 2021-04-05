@@ -9,3 +9,20 @@
     display: block;
     width: 70%;
 }
+
+.idiot {
+    margin-top: 500vh;
+    font-size: 200%;
+    text-align: center;
+}
+
+.ladno {
+    display: flex;
+    justify-content: center;
+}
+
+.lovi {
+    margin-top: 10%;
+    font-size: 200%;
+    text-align: center;
+}
