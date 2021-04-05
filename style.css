@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.pablo {
+    position: absolute;
+    height: 100%;
+    display: block;
+    width: 70%;
+}
